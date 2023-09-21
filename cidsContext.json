@@ -148,8 +148,8 @@
         "@id": "org:hasID",
         "@type": "org:OrganizationID"
       },
-      "hasImpactkDepth": {
-        "@id": "cids:hasImpactDept",
+      "hasImpactDepth": {
+        "@id": "cids:hasImpactDepth",
         "@type": "cids:ImpactDepth"
       } ,
       "hasImpactDuration": {
