@@ -144,6 +144,9 @@
         "@id": "org:hasGoal",
         "@type": "org:Goal"
       },
+      "forStakeholder": {
+        "@id": "cids:forStakeholder"
+      }
       "hasID": {
         "@id": "org:hasID",
         "@type": "org:OrganizationID"
