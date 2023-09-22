@@ -3,6 +3,7 @@
     "http://ontology.eil.utoronto.ca/cids/contexts/cidsFoundationContext.json"
     ,
     {
+      "schema": "http://schema.org/" ,
       "forTheme": {
         "@id": "cids:forTheme",
         "@type": "cids:Domain"
